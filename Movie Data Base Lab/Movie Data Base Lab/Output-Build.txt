@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Movie Data Base Lab, Configuration: Debug|AnyCPU ------
+1>C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\Program.cs(37,31,37,49): warning CS8602: Dereference of a possibly null reference.
+1>C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\Program.cs(55,31,55,49): warning CS8602: Dereference of a possibly null reference.
+1>  Movie Data Base Lab -> C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\bin\Debug\net8.0\Movie Data Base Lab.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

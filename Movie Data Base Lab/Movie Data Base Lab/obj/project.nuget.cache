@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHLEgahmNlQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael Storm\\source\\repos\\Movie Data Base Lab\\Movie Data Base Lab\\Movie Data Base Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael Storm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.10\\microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

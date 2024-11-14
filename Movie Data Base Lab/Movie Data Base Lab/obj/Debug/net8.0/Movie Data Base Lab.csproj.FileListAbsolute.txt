@@ -1,0 +1,14 @@
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\Movie Data Base Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\Movie Data Base Lab.AssemblyInfoInputs.cache
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\Movie Data Base Lab.AssemblyInfo.cs
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\Movie Data Base Lab.csproj.CoreCompileInputs.cache
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\bin\Debug\net8.0\Movie Data Base Lab.exe
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\bin\Debug\net8.0\Movie Data Base Lab.deps.json
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\bin\Debug\net8.0\Movie Data Base Lab.runtimeconfig.json
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\bin\Debug\net8.0\Movie Data Base Lab.dll
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\bin\Debug\net8.0\Movie Data Base Lab.pdb
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\Movie Data Base Lab.dll
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\refint\Movie Data Base Lab.dll
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\Movie Data Base Lab.pdb
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\Movie Data Base Lab.genruntimeconfig.cache
+C:\Users\Michael Storm\source\repos\Movie Data Base Lab\Movie Data Base Lab\obj\Debug\net8.0\ref\Movie Data Base Lab.dll
